@@ -45,7 +45,7 @@ I'm a passionate **Full Stack Engineer** with **6+ years of experience** buildin
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marslan7869)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cakkids)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Achievements & Highlights
 
