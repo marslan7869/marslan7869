@@ -45,14 +45,7 @@ I'm a passionate **Full Stack Engineer** with **6+ years of experience** buildin
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marslan7869&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marslan7869&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marslan7869&theme=tokyonight" alt="GitHub Streak" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marslan7869)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Achievements & Highlights
 
